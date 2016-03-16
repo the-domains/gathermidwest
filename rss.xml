@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GatherMidwest]]></title>
         <description><![CDATA[GatherMidwest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gathermidwest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 16:58:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 17:00:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gathermidwest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8328d422-90e6-41ac-a461-f07bd58138d1.jpg">]]></description>
-            <link>undefinedec3c839f-dcab-4fc4-a1b6-fa8ce6277d6f/index.html</link>
+            <link>https://thegrid.ai/gathermidwest/ec3c839f-dcab-4fc4-a1b6-fa8ce6277d6f/index.html</link>
             <guid isPermaLink="false">ec3c839f-dcab-4fc4-a1b6-fa8ce6277d6f</guid>
-            <pubDate>Wed, 16 Mar 2016 16:57:55 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 17:00:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
